@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/neehalineni/static/css/main.e6c13ad2.css",
-    "main.js": "/neehalineni/static/js/main.248d3bdb.js",
+    "main.js": "/neehalineni/static/js/main.1febb18b.js",
     "static/js/453.1260ba43.chunk.js": "/neehalineni/static/js/453.1260ba43.chunk.js",
     "index.html": "/neehalineni/index.html",
     "main.e6c13ad2.css.map": "/neehalineni/static/css/main.e6c13ad2.css.map",
-    "main.248d3bdb.js.map": "/neehalineni/static/js/main.248d3bdb.js.map",
+    "main.1febb18b.js.map": "/neehalineni/static/js/main.1febb18b.js.map",
     "453.1260ba43.chunk.js.map": "/neehalineni/static/js/453.1260ba43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.248d3bdb.js"
+    "static/js/main.1febb18b.js"
   ]
 }
